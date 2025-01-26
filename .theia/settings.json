@@ -1,0 +1,4 @@
+{ 
+    "java.debug.settings.console": "internalConsole",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
